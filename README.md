@@ -1,3 +1,3 @@
 # MCP-Demo
 
-hello this is a test.
+Updated content.
